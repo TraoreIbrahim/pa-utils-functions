@@ -1,0 +1,26 @@
+{
+  "name": "pa-utils-functions",
+  "version": "0.1.0",
+  "description": "utils functions javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils",
+    "functions",
+    "react",
+    "javascript",
+    "calculate-age",
+    "date-diff",
+    "atob-token",
+    "uri-parser",
+    "use-dimensions"
+  ],
+  "author": "Mr Traoré",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
